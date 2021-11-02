@@ -1,2 +1,2 @@
 # JS-briefly
-Textbook in Russian
+A textbook in Russian
